@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on django
-- 📫 How to reach me paramben10@gmail.com
+- 📫 How to reach me paramrpatel10@gmail.com
 
 <!---
 parampa10/parampa10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
